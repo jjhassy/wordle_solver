@@ -10,3 +10,7 @@
 
 https://github.com/jjhassy/wordle_solver/assets/66802155/c3b032b2-cb83-4f5f-9b2f-1853b56b05a9
 
+<!-- Resized video using HTML -->
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+  <iframe src="https://github.com/jjhassy/wordle_solver/assets/66802155/c3b032b2-cb83-4f5f-9b2f-1853b56b05a9" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
