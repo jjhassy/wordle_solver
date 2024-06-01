@@ -2,6 +2,8 @@
 ## Description
   This is a script that solves the Wordle. It opens Chrome and everything. Fully hands off. Sit back, relax, and let my script solve it for you. You can also test it offline to see that the logic I use has a 98% success rate (~91% if you use the bigger word list). The logic is elementary. If a letter is green, only words with that letter in that spot are considered. Yellow, keep words that have that letter, just not in that spot. Etc. etc. 
   
+  ![wordle_og_1200x630](https://github.com/jjhassy/wordle_solver/assets/66802155/b2b1cc5c-1f1a-4d0f-abaa-534c95b1a092)
+
   **How did I pick words?** I scored the words based on the sum of the frequencies of the individual letters then choose the highest ranked word. I also penalized the score slightly if there were duplicate letters. I could have done strategies that knock out a bunch of common letters first or some other logic that is cooler, but I didn't. 91-98% rate isn't terrible though. 
   I guess you could say that it plays the game in Wordle Hard Mode (all revealed letters must be used in subsequent guesses).
   
