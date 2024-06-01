@@ -1,4 +1,4 @@
-# Wordle Solver <img src="https://github.com/jjhassy/wordle_solver/assets/66802155/1be7a89e-3356-46ce-94a1-f0b5ff9fe2e2" height = "20" width="100"/>
+# Wordle Solver <img src="https://github.com/jjhassy/wordle_solver/assets/66802155/1be7a89e-3356-46ce-94a1-f0b5ff9fe2e2" height = "20" width="60"/>
 ## Description
 
 
