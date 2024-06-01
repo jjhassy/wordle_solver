@@ -6,11 +6,7 @@
 - Run the offlineWordle.py to test with thousands of random 5 letter words to see the success rate of the script logic.
 <img src="https://github.com/jjhassy/wordle_solver/blob/387cf5d2d67ae120873ebd4afffe4f7d39e31a64/screenshot.png" width="900" height="300" />
 
+<img src="https://github.com/jjhassy/wordle_solver/assets/66802155/c3b032b2-cb83-4f5f-9b2f-1853b56b05a9" width="960" height="540" />
 
 
-https://github.com/jjhassy/wordle_solver/assets/66802155/c3b032b2-cb83-4f5f-9b2f-1853b56b05a9
 
-<!-- Resized video using HTML -->
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-  <iframe src="https://github.com/jjhassy/wordle_solver/assets/66802155/c3b032b2-cb83-4f5f-9b2f-1853b56b05a9" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-</div>
