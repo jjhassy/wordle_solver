@@ -1,6 +1,6 @@
 # Wordle Solver 
 ## Description
-<img src="https://github.com/jjhassy/wordle_solver/assets/66802155/b2b1cc5c-1f1a-4d0f-abaa-534c95b1a092" alt="wordle_og_1200x630" width="1000"/>
+<img src="https://github.com/jjhassy/wordle_solver/assets/66802155/b2b1cc5c-1f1a-4d0f-abaa-534c95b1a092" alt="wordle_og_1200x630" height = "100" width="1000"/>
 
   This is a script that solves the Wordle. It opens Chrome and everything. Fully hands off. Sit back, relax, and let my script solve it for you. You can also test it offline to see that the logic I use has a 98% success rate (~91% if you use the bigger word list). The logic is elementary. If a letter is green, only words with that letter in that spot are considered. Yellow, keep words that have that letter, just not in that spot. Etc. etc. 
   
