@@ -4,9 +4,7 @@
   
   **How did I pick words?** I scored the words based on the sum of the frequencies of the individual letters. I also penalized the score slightly if there were duplicate letters. I could have done strategies that knock out a bunch of common letters first or some other logic that is cooler, but I didn't. 91-98% rate isn't terrible though. 
   
-  The Chrome interactions I followed mostly from this typings.gg solver script: https://github.com/woosalexe/typingsgg-hack/blob/master/typingsgg.py, working with HTML is extremely annoying.
-  
-  Other sources like where I got the word list and the frequencies of letters are commented in the code. 
+  The Chrome interactions I followed mostly from this typings.gg solver script: https://github.com/woosalexe/typingsgg-hack/blob/master/typingsgg.py, working with HTML is extremely annoying. Other sources like where I got the word list and the frequencies of letters are commented in the code. 
   
   Overall, I enjoyed this project. Cool stuff I'm proud of using in this project: *dictionaries, sets, maps, file reading, lambda function, selenium webdriver stuff, and a lot of swag (used a bunch of that)** . 
   
