@@ -1,5 +1,5 @@
 # Wordle Solver 
-<img src="https://github.com/jjhassy/wordle_solver/assets/66802155/1be7a89e-3356-46ce-94a1-f0b5ff9fe2e2" height = "40" width="63"/>
+<img src="https://github.com/jjhassy/wordle_solver/assets/66802155/1be7a89e-3356-46ce-94a1-f0b5ff9fe2e2" height = "80" width="120"/>
 
 ## Description
 
