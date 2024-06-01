@@ -8,9 +8,9 @@
   
   Other sources like where I got the word list and the frequencies of letters are commented in the code. 
   
-  Overall, I enjoyed this project. It was really annoying to work with Chrome and reading the documentation of Selenium stuff. Additionally, looking through the HTML and finding out how to grab info from individual rows was a pain. 
+  Overall, I enjoyed this project. Cool stuff I'm proud of using in this project: *dictionaries, sets, maps, file reading, lambda function, selenium webdriver stuff, and a lot of swag (used a bunch of that)** . 
   
-  Cool stuff I'm proud of using in this project: *dictionaries, sets, maps, file reading, lambda function, selenium webdriver stuff, and a lot of swag** (comes naturally to me really). 
+  
   
 ## How to run
 - Clone the repo.
