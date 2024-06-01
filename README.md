@@ -6,7 +6,7 @@
   
   The Chrome interactions I followed mostly from this typings.gg solver script: https://github.com/woosalexe/typingsgg-hack/blob/master/typingsgg.py, working with HTML is extremely annoying. Other sources like where I got the word list and the frequencies of letters are commented in the code. 
   
-  Overall, I enjoyed this project. Cool stuff I'm proud of using in this project: *dictionaries, sets, maps, file reading, lambda function, selenium webdriver stuff, and a lot of swag (used a bunch of that).**  
+  Overall, I enjoyed this project. Cool stuff I'm proud of using in this project: *dictionaries, sets, maps, file reading, lambda function, selenium webdriver stuff, and a lot of swag (used a bunch of that).*  
   
   
   
