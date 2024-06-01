@@ -1,8 +1,8 @@
 # Wordle Solver 
 ## Description
-  This is a script that solves the wordle. It opens Chrome and everything. You can also test it offline to see that the logic I use has a 98% success rate (~91% if you use the bigger word list). The logic is elementary. If a letter is green, only words with that letter in that spot are considered. Yellow, keep words that have that letter, just not in that spot. Etc. etc. 
+  This is a script that solves the Wordle. It opens Chrome and everything. You can also test it offline to see that the logic I use has a 98% success rate (~91% if you use the bigger word list). The logic is elementary. If a letter is green, only words with that letter in that spot are considered. Yellow, keep words that have that letter, just not in that spot. Etc. etc. 
   
-  How did I pick words? I scored the words based on the sum of the frequencies of the individual letters. I also penalized the score slightly if there were duplicate letters. I could have done strategies that knock out a bunch of common letters first or some other logic that is cooler, but I didn't. 91-98% rate isn't terrible though. 
+  **How did I pick words?** I scored the words based on the sum of the frequencies of the individual letters. I also penalized the score slightly if there were duplicate letters. I could have done strategies that knock out a bunch of common letters first or some other logic that is cooler, but I didn't. 91-98% rate isn't terrible though. 
   
   The Chrome interactions I followed mostly from this typings.gg solver script: https://github.com/woosalexe/typingsgg-hack/blob/master/typingsgg.py, working with HTML is extremely annoying.
   
@@ -10,7 +10,7 @@
   
   Overall, I enjoyed this project. It was really annoying to work with Chrome and reading the documentation of Selenium stuff. Additionally, looking through the HTML and finding out how to grab info from individual rows was a pain. 
   
-  Cool stuff I'm proud of using in this project: dictionaries, sets, maps, file reading, lambda function, selenium webdriver stuff, and a lot of swag (comes naturally to me really). 
+  Cool stuff I'm proud of using in this project: **dictionaries, sets, maps, file reading, lambda function, selenium webdriver stuff, and a lot of swag** (comes naturally to me really). 
   
 ## How to run
 - Clone the repo.
