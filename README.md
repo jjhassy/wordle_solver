@@ -22,7 +22,7 @@
 ## How to run
 - Clone the repo.
 - Install relevant packages like selenium.
-- The chromedriver is for Mac, so if that's not you, find you appropriate chromedriver download at https://googlechromelabs.github.io/chrome-for-testing/#stable and put it in the directory of the repo.
+- The chromedriver is for Windows, so if that's not you, find you appropriate chromedriver download at https://googlechromelabs.github.io/chrome-for-testing/#stable and put it in the directory of the repo.
 - Change the directory to the chromedriver in the code if the filenames don't match.
 - Run the **realWordle.py** to automatically open up Chrome and solve the wordle.
 - Run the **offlineWordle.py** to test with thousands of random 5 letter words to see the success rate of the script logic.
