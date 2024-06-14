@@ -3,7 +3,7 @@
 
 ## Description
 
-***FULL EXPLANATION***: https://youtu.be/UnGFsHHusbM
+***FULL EXPLANATION***: https://drive.google.com/file/d/1zl-ES1LGmdJD5BZS6NxIGKiSu2wQOA9k/view?usp=sharing
 
 
   This is a script that solves the Wordle. It opens Chrome and everything. Fully hands off. Sit back, relax, and let my script solve it for you. You can also test it offline to see that the logic I use has a 98% success rate (~91% if you use the bigger word list). The logic is elementary. If a letter is green, only words with that letter in that spot are considered. Yellow, keep words that have that letter, just not in that spot. Etc. etc. 
